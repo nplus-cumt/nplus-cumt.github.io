@@ -1,2 +1,1 @@
-# nplus-cumt.github.io
-github pages site
+Welcome to N+科技工作室！
